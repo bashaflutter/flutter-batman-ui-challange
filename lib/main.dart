@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const GetMaterialApp(
       debugShowCheckedModeBanner: false,
+      title: 'Batman-Ui-Challange',
       home: SignupPage(),
     );
   }
