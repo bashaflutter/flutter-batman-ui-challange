@@ -68,7 +68,7 @@ class LoginPage extends StatelessWidget {
                       cursorColor: Colors.white,
                       decoration: InputDecoration(
                         suffix: Padding(
-                          padding: const EdgeInsets.only(right: 8.0),
+                          padding: const EdgeInsets.only(right: 7.0),
                           child: Image.asset(
                             'assets/images/batman_logo.png',
                             height: 15,
